@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **full-stack web applications using the MERN stack**
-- 🌱 Always exploring more on **Node.js** **TypeScript**, and **cloud deployment tools**
+- 🌱 Always exploring more on **Node.js** **JavaScript**, and **cloud deployment tools**
 - 💬 Ask me about **React, Node.js, MongoDB, Express, or anything JavaScript**
 - 📫 Reach me at: `tharunrt570@gmail.com`
 - ⚡ Fun fact: I love clean UI, fast APIs, and late-night debugging 🧑‍💻
